@@ -1,0 +1,33 @@
+_repo: With-Marlborough-to-Malplaquet--A-Story-of-the-Reign-of-Queen-Anne_13817
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Strang, Herbert
+    gutenberg_agent_id: '5234'
+    url: http://www.gutenberg.org/2009/agents/5234
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Herbert_Strang
+    - http://www.gutenberg.org/ebooks/author/39124
+  - agent_name: Stead, Richard
+    alias: Stead, R. (Richard)
+    gutenberg_agent_id: '5235'
+    url: http://www.gutenberg.org/2009/agents/5235
+description: ''
+gutenberg_issued: '2004-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13817'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marlborough, John Churchill, Duke of, 1650-1722 -- Juvenile fiction'
+- !lcsh 'Malplaquet, Battle of, Malplaquet, France, 1709 -- Juvenile fiction'
+- !lcsh 'Great Britain -- History -- Anne, 1702-1714 -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'With Marlborough to Malplaquet: A Story of the Reign of Queen Anne'
+url: http://www.gutenberg.org/ebooks/13817
